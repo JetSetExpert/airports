@@ -1,0 +1,30 @@
+{
+  "name": "airports-json",
+  "version": "1.0.0",
+  "description": "A comprehensive dataset of airports, countries, and regions in JSON format, including , with a script to generate data from CSV sources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node src/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JetSetExpert/airports.git"
+  },
+  "keywords": [
+    "airport",
+    "airports",
+    "data",
+    "dataset"
+  ],
+  "author": "Jet Set Expert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JetSetExpert/airports/issues"
+  },
+  "homepage": "https://jetsetexpert.com",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "csv-parser": "^3.0.0"
+  }
+}

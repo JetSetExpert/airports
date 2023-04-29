@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules
+
+# Build artifacts
+dist
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor-specific files and directories
+.vscode
+.idea
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.sublime*
+*.iml
+*.DS_Store
