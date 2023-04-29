@@ -133,18 +133,33 @@ Replace `small_airport,medium_airport,large_airport` with the desired types. Pos
 ## Links & Resources
 
 [Jet Set Expert](https://jetsetexpert.com)
+
 [airports-json on GitHub](https://github.com/jetsetexpert/airports)
+
 [airports-json on NPM](https://www.npmjs.com/package/airports-json)
+
 [airports-json on Aliyun](https://developer.aliyun.com/mirror/npm/package/airports-json)
+
 [airports-json on TAONPM](https://npmmirror.com/package/airports-json)
+
 [airports-json on jsDlivr](https://www.jsdelivr.com/package/npm/airports-json)
+
 [airports-json on Snyk](https://snyk.io/advisor/npm-package/airports-json)
+
 [airports-json on Libraries.io](https://libraries.io/npm/airports-json)
+
 [airports-json on RunKit](https://npm.runkit.com/airports-json)
+
 [airports-json on npm trends](https://www.npmtrends.com/airports-json)
+
 [airports-json on Package Phobia](https://packagephobia.com/result?p=airports-json)
+
 [airports-json on Skypack](https://www.skypack.dev/view/airports-json)
+
 [airports-json on CNPM](https://cnpmjs.org/package/airports-json)
+
 [airports-json on githubmemory](https://githubmemory.com/repo/javascriptutils/airports-json)
+
 [airports-json on npm.io](https://npm.io/package/airports-json)
+
 [airports-json on Pkg Stats](https://www.pkgstats.com/pkg:airports-json)
