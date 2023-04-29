@@ -89,7 +89,7 @@ npm install airports-json
 After installing the package, you can import and use the datasets in your project like this:
 
 ```javascript
-const { airports, regions, countries } = require("your-package-name");
+const { airports, regions, countries } = require("airports-json");
 
 // Use the datasets as needed
 console.log(airports);
